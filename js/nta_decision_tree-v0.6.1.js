@@ -2,9 +2,9 @@
 var jobid = window.location.pathname.split("/").pop();
 
 // set path for webApp reduced CSV
-var csv_path = './data/Jon_WW2DW_statistics_sheet.csv';
+var csv_path = './data/Example_NTA_for_QAQC_visuals.csv';
 // csv_path = './data/subset.csv'
-var init_parmaeters_path = './data/Analysis Parameters.csv'
+var init_parmaeters_path = './data/Analysis Parameters b.csv'
 // var csv_path = '/nta/ms1/results/decision_tree_data/' + jobid;
 
 /**
