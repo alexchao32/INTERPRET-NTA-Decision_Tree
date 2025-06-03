@@ -1,0 +1,30 @@
+Parameter,Value
+Project name,Example NTA
+Date & time,2025-06-03 13:19:54.366685
+Run test files only (debugging),no
+Positive mode file,detectionMatrix 1.csv
+Negative mode file,
+Positive mode adducts,"['Na', 'K', 'NH4']"
+Negative mode adducts,"['Cl', 'Br', 'HCO2', 'CH3CO2', 'CF3CO2']"
+Neutral losses (both modes),"['H2O', 'CO2']"
+Adduct / duplicate mass accuracy units,ppm
+Adduct / duplicate mass accuracy,10
+Adduct / duplicate retention time accuracy (mins),0.05
+Run sequence positive mode file,sequence 1.csv
+Run sequence negative mode file,
+Tracer file,tracer 1.csv
+Tracer mass accuracy units,ppm
+Tracer mass accuracy,5
+Tracer retention time accuracy (mins),0.1
+Tracer plot y-axis scaling,log
+Tracer plot trendlines shown,yes
+Min replicate hits (%),66
+Min replicate hits in blanks (%),66
+Max replicate CV,0.8
+MRL standard deviation multiplier,3
+Parent ion mass accuracy (ppm),5
+Discard features below this retention time (mins),0
+Search DSSTox for possible structures,no
+Search Cheminformatics Hazard Module for toxicity data,no
+Search dashboard by,mass
+Save top result only?,no
